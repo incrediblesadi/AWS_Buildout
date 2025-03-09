@@ -1,1 +1,1 @@
-{ "repository": "AWS_Buildout", "directories": [ "external-connection-to-aws" ], "last_updated": "2025-03-09T00:00:00Z" }
+{ "repository": "AWS_Buildout", "branches": ["main"], "directories": { "external-connection-to-aws": { "test-connection-plan": { "files": [ { "name": "test_plan.md", "sha": "abc123", "size": 1234 } ]}, "full-rollout-plan": { "files": [ { "name": "rollout_plan.md", "sha": "def456", "size": 4567 } ]}, "backup-connection-plan": { "files": [ { "name": "backup_plan.md", "sha": "ghi789", "size": 7890 } ]} } }
