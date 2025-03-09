@@ -19,3 +19,14 @@
   - If Lex fails, Lambda handles execution.
 5. "Enhance DynamoDB for Storing Lex & Lambda Actions"
   - Create multiple tables for Lex and Lambda actions.
+
+---
+
+## Reference: Build1 Structure
+- api gateway caching strategy
+- GraphQL cache layering(hot, warm, cold tiers)
+- AppSync integrations with AWS services
+- Logging and monitoring via CloudWatch
+- Security & IAM permissions best practices
+
+## Source: Build1.txt details
